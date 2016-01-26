@@ -20,4 +20,5 @@ Use the Logger Object like this:
 You can give location / information to all of them like this:
 
 `log.err('This is an error!') // outputs 'Error: This is an error!`
+
 `log.inf('Information are important!', 'HelloWorldFunction()') //outputs 'Info: Information are important! > HelloWorldFunction()`
